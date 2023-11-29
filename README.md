@@ -97,7 +97,19 @@
 
 |메인화면|온보딩 뷰|
 |:---:|:---:|
-|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/0e313837-89ee-427e-a5dc-2f5a7f54ab82 width="600" height="400"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/0903ff58-552f-4c76-9f60-a4375bf61982 width="600" height="400"/>|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/0e313837-89ee-427e-a5dc-2f5a7f54ab82 width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/0903ff58-552f-4c76-9f60-a4375bf61982 width="400" height="200"/>|
+|팀 설정 페이지|게임선택 페이지|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/86cd4475-9f8e-4c8b-825c-7da353abffd5 width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/1de80ea4-b512-41b8-847b-1aa0c68470ba width="400" height="200"/>|
+|게임 설명 페이지|팀 선택 페이지|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/f837f8af-0276-4c87-ba25-84e3fd9510a9 width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/171fcbed-902e-4244-a5b5-4886f52ca070 width="400" height="200"/>|
+|게임 규칙 설정|현재 순위|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/56ab14ba-f00d-4b9c-8e15-f005df483fe4 width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/bf7c6f5f-fa1a-40cf-84dc-9eee2db5626e width="400" height="200"/>|
+|게임 주제 설정|준비 페이지|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/d11737ef-92b3-486f-b38b-acc496cba88d width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/da6dd375-4368-4cc5-8572-3c39c8cd0be9 width="400" height="200"/>|
+|게임 화면|중간 결과 화면|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/dbdf980d-c8f8-4e0a-a105-135f4366743c width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/ce1c971a-24eb-40fa-98bd-0f70f6b77ecf width="400" height="200"/>|
+|최종 결과 화면|새부 결과 화면|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/4444ac0f-b932-4956-9a11-3fadbd709404 width="400" height="200"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/9bcd8060-0f7c-41fb-b845-edc88787f63d width="400" height="200"/>|
 
 ## 7. 사용자 시나리오
 
