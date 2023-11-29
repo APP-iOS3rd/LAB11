@@ -2,7 +2,13 @@
 
 ## 프로젝트 명
 
-#### 앱 이름 : 뿅뿅퀴즈오락실
+### 앱 이름 : 뿅뿅퀴즈오락실
+
+## 팀원
+
+|팀원|김재완|이종원|조민식|한수빈|황성진|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|뿅뿅오락실|[김재완's Github](https://github.com/jaewan0091)|[이종원's Github](https://github.com/jake5113)|[조민식's Github](https://github.com/mongsik98)|[한수빈's Github](https://github.com/WaterBean)|[황성진's Github](https://github.com/Hsungjin)|
 
 ## 목차
 
