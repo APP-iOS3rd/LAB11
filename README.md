@@ -95,14 +95,9 @@
 
 ## 6. 앱 구조
 
-![rabbit](https://github.com/APP-iOS3rd/LAB11/assets/120264964/16bd48cc-39e6-429b-a82c-93ee18dc3232)
-
-
-### 사진 추후 첨부
-* 1.로고화면
-* <p aline="center">
-[< img src="https://github.com/APP-iOS3rd/LAB11/assets/144413519/0e313837-89ee-427e-a5dc-2f5a7f54ab82.png">](https://private-user-images.githubusercontent.com/144413519/286478304-0e313837-89ee-427e-a5dc-2f5a7f54ab82.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNDQyNzYsIm5iZiI6MTcwMTI0Mzk3NiwicGF0aCI6Ii8xNDQ0MTM1MTkvMjg2NDc4MzA0LTBlMzEzODM3LTg5ZWUtNDI3ZS1hNWRjLTJmNWE3ZjU0YWI4Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwNzQ2MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZTE2ZTViOTJlMDg4Zjc4NmIzYzU2NWEwNTZjNzBiZGQ5MDcxZTM5MzhhZmQyMmM3MDNmMDQ4ZTM1OGYwZjY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QBAKGiXRnxaQRLLf2u9MM0hdUYACUjWlChmz5WNH3gI)
-  </p>
+|메인화면|온보딩 뷰|
+|:---:|:---:|
+|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/0e313837-89ee-427e-a5dc-2f5a7f54ab82 width="600" height="400"/>|<img src=https://github.com/APP-iOS3rd/LAB11/assets/144413519/0903ff58-552f-4c76-9f60-a4375bf61982 width="600" height="400"/>|
 
 ## 7. 사용자 시나리오
 
