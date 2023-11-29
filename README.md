@@ -97,7 +97,7 @@
 
 ### 사진 추후 첨부
 * 1.로고화면
-  < img src ="https://github.com/APP-iOS3rd/LAB11/assets/144413519/0e313837-89ee-427e-a5dc-2f5a7f54ab82", width"300", height="300">
+  < img src ="/APP-iOS3rd/LAB11/assets/144413519/0e313837-89ee-427e-a5dc-2f5a7f54ab82", width"300", height="300">
 
 
 ## 7. 사용자 시나리오
