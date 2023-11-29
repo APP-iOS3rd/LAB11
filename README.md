@@ -95,6 +95,9 @@
 
 ## 6. 앱 구조
 
+![rabbit](https://github.com/APP-iOS3rd/LAB11/assets/120264964/16bd48cc-39e6-429b-a82c-93ee18dc3232)
+
+
 ### 사진 추후 첨부
 * 1.로고화면
 * <p aline="center">
